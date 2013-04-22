@@ -52,7 +52,7 @@ Pipeline
 
 Pipeline operators appear in an array. Conceptually, documents pass through
 these operators in a sequence. All examples in this section assume that the
-aggregation pipeline begins with a collection named ``article`` that
+aggregation pipeline begins with a collection named ``articles`` that
 contains documents that resemble the following:
 
 .. code-block:: javascript
